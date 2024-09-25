@@ -1,1 +1,1 @@
-https://m4tte-sh.github.io/Password_Generator
+https://tp2-passgenerator.netlify.app/
